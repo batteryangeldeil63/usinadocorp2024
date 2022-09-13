@@ -1,10 +1,10 @@
 # Captação de Lead Usina do Corpo
 
-![GitHub repo size](https://img.shields.io/github/repo-size/correa0105/Page-UsinaDoCorpo?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/correa0105/Page-UsinaDoCorpo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/correa0105/Page-UsinaDoCorpo?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/correa0105/Page-UsinaDoCorpo?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/correa0105/Page-UsinaDoCorpo?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/correa0105/CaptacaoLead-UsinaDoCorpo?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/correa0105/CaptacaoLead-UsinaDoCorpo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/correa0105/CaptacaoLead-UsinaDoCorpo?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/correa0105/CaptacaoLead-UsinaDoCorpo?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/correa0105/CaptacaoLead-UsinaDoCorpo?style=for-the-badge)
 
 <img src="exemplo.png" alt="Exemplo do Projeto">
 
